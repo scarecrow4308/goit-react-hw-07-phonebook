@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/goit-react-hw-07-phonebook/static/js/main.f408fcbd.js",
+    "index.html": "/goit-react-hw-07-phonebook/index.html",
+    "main.f408fcbd.js.map": "/goit-react-hw-07-phonebook/static/js/main.f408fcbd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f408fcbd.js"
+  ]
+}
